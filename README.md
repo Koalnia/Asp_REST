@@ -17,6 +17,7 @@ Aplikacja wczytuje domyślne wartości do bazy danych, zawierające trzech użyt
 Aplikacja ustawiona jest, żeby sama usuwała i generowała od nowa strukturę bazy danych oraz jej dane przy każdym uruchomieniu. 
 W celu zarządzania pakietami projektów Asp.Net Core używa narzędzia NuGet.
 Aplikacja zawiera także testy wydajnościowe napisane w technologii k6.
+
 #ENG
 Asp_REST
 The Asp_REST application is a server application project implementing an API compliant with the REST architecture in the Asp.Net Core framework.
