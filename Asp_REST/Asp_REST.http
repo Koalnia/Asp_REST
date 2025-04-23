@@ -1,0 +1,6 @@
+@Asp_REST_HostAddress = http://localhost:5257
+
+GET {{Asp_REST_HostAddress}}/api/
+Accept: application/json
+
+###
